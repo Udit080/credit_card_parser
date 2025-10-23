@@ -1,0 +1,7 @@
+camelot-py[cv]
+pydantic
+PyMuPDF
+streamlit
+pandas
+fuzzywuzzy
+python-levenshtein
